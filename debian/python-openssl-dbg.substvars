@@ -1,0 +1,5 @@
+python:Versions=2.6
+python:Provides=python2.6-openssl-dbg
+python:Depends=python (<< 2.7), python (>= 2.6), python-support (>= 0.90.0)
+shlibs:Depends=libc6 (>= 2.4), libgcc1 (>= 1:4.1.1), libssl0.9.8 (>= 0.9.8k-1)
+misc:Depends=

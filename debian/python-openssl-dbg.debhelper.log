@@ -1,0 +1,12 @@
+dh_installdirs
+dh_installexamples
+dh_installchangelogs
+dh_compress
+dh_fixperms
+dh_pysupport
+dh_makeshlibs
+dh_installdeb
+dh_shlibdeps
+dh_gencontrol
+dh_md5sums
+dh_builddeb

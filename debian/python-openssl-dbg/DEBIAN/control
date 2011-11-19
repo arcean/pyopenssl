@@ -1,0 +1,25 @@
+Package: python-openssl-dbg
+Source: pyopenssl
+Version: 0.10-1maemo1
+Architecture: armel
+Maintainer: Matti Airas <matti.p.airas@nokia.com>
+Installed-Size: 884
+Depends: python-openssl (= 0.10-1maemo1), python-dbg, libc6 (>= 2.4), libgcc1 (>= 1:4.1.1), libssl0.9.8 (>= 0.9.8k-1)
+Section: debug
+Priority: extra
+Homepage: http://pyopenssl.sourceforge.net/
+Description: Python wrapper around the OpenSSL library (debug extension)
+ High-level wrapper around a subset of the OpenSSL library, includes
+ .
+   * SSL.Connection objects, wrapping the methods of Python's portable
+     sockets
+   * Callbacks written in Python
+   * Extensive error-handling mechanism, mirroring OpenSSL's error
+     codes
+ .
+ A lot of the object methods do nothing more than calling a
+ corresponding function in the OpenSSL library.
+ .
+ This package contains the debug extension for python-openssl.
+Aegis-Manifest: empty
+Original-Maintainer: Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>

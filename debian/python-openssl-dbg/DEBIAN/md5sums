@@ -1,0 +1,9 @@
+1a3163745e4627cc88a8a6ed5064460d  usr/lib/debug/usr/lib/python2.6/dist-packages/OpenSSL/SSL.so
+8c965889c2354ebccf29f22a651b961b  usr/lib/debug/usr/lib/python2.6/dist-packages/OpenSSL/crypto.so
+820a207b474c53db11e3ef21580ee0f5  usr/lib/debug/usr/lib/python2.6/dist-packages/OpenSSL/rand.so
+eff17a1a257ca0cf4aa8a017c67a6a96  usr/lib/pyshared/python2.6/OpenSSL/SSL_d.so
+5f4dcdc536866ace6098804c5b56aca5  usr/lib/pyshared/python2.6/OpenSSL/crypto_d.so
+871130908aca888bd30a135e61fc180f  usr/lib/pyshared/python2.6/OpenSSL/rand_d.so
+abe15b532cc506b8e5691e2e78c29b29  usr/share/doc/python-openssl-dbg/changelog.Debian.gz
+7cba89e29f0c985f2908bf46be2339b4  usr/share/doc/python-openssl-dbg/changelog.gz
+91499eca4762c46d8e324a93a431fb6a  usr/share/python-support/python-openssl-dbg.public

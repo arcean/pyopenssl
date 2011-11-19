@@ -1,0 +1,5 @@
+Patches applied in the Debian version of :
+
+debian/patches/20_spelling.dpatch (Sandro Tosi <morph@debian.org>):
+  Fix the "compatability/compatibility" spelling error
+

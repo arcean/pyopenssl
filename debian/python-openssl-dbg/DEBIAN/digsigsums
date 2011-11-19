@@ -1,0 +1,8 @@
+S 15 com.nokia.maemo H 40 ddf7930e5204cbd836ff6b6dc6e825991fb903fc R 63 usr/lib/debug/usr/lib/python2.6/dist-packages/OpenSSL/crypto.so
+S 15 com.nokia.maemo H 40 34677e477bf71f7f6dd8556f3c2ee268cf6355bc R 60 usr/lib/debug/usr/lib/python2.6/dist-packages/OpenSSL/SSL.so
+S 15 com.nokia.maemo H 40 9a75f3ddcf7176e71cf2d529d94b5eab4fd6a733 R 61 usr/lib/debug/usr/lib/python2.6/dist-packages/OpenSSL/rand.so
+S 15 com.nokia.maemo H 40 20f0fea062870bad05b80aca12dac0268430e1f0 R 43 usr/lib/pyshared/python2.6/OpenSSL/SSL_d.so
+S 15 com.nokia.maemo H 40 40f1af503c95a7bb00bad0dc52f9c71212f7fba9 R 46 usr/lib/pyshared/python2.6/OpenSSL/crypto_d.so
+S 15 com.nokia.maemo H 40 d215d9b511f749013e7a491e1f6c21270427a287 R 44 usr/lib/pyshared/python2.6/OpenSSL/rand_d.so
+S 15 com.nokia.maemo H 40 82a9fc09789555e555b2fd68faffbed5410dfda4 R 42 var/lib/dpkg/info/python-openssl-dbg.prerm
+S 15 com.nokia.maemo H 40 0aa265fc0e91eac3c705ac0bdf3a54fbc3783454 R 45 var/lib/dpkg/info/python-openssl-dbg.postinst

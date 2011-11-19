@@ -1,0 +1,5 @@
+pyversions=2.6
+
+/usr/lib/pyshared/python2.6/OpenSSL/SSL_d.so
+/usr/lib/pyshared/python2.6/OpenSSL/crypto_d.so
+/usr/lib/pyshared/python2.6/OpenSSL/rand_d.so
